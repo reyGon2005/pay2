@@ -1,0 +1,27 @@
+.bienvenida {
+  margin: 2rem 1rem;
+}
+
+.bienvenida h2 {
+  color: #1e88e5;
+  font-weight: 700;
+}
+
+.text-center {
+  background: linear-gradient(135deg, #1e88e5, #42a5f5);
+  padding: 2rem;
+  width: 90%;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(30, 136, 229, 0.3);
+  color: white;
+}
+
+.text-center h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.text-center p {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
